@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny on Work Showcase</title>
+    <link>/categories/shiny/</link>
+    <description>Recent content in Shiny on Work Showcase</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:26:13 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/shiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tempus</title>
+      <link>/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>/blogs/tempus/</guid>
+      <description>Test test Hlow.</description>
+    </item>
+    
+  </channel>
+</rss>
