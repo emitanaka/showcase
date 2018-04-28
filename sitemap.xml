@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://emitanaka.github.io/showcase/showcase/</loc>
+    <loc>/showcase/showcase/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://emitanaka.github.io/showcase/showcase/ipsum/</loc>
+    <loc>/showcase/showcase/more2come/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://emitanaka.github.io/showcase/categories/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://emitanaka.github.io/showcase/categories/</loc>
+    <loc>/showcase/categories/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://emitanaka.github.io/showcase/tags/</loc>
+    <loc>/showcase/categories/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://emitanaka.github.io/showcase/</loc>
+    <loc>/showcase/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/showcase/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
