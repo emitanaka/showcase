@@ -25,13 +25,13 @@
   </url>
   
   <url>
-    <loc>/showcase/tags/</loc>
+    <loc>/showcase/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/showcase/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <loc>/showcase/tags/</loc>
     <priority>0</priority>
   </url>
   
